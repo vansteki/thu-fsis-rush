@@ -14,7 +14,7 @@ thu-fsis-rush
     輸入學號
     >"Enter Password"
     輸入密碼 (輸入過程不會被看到)
-    "Rush Times?"
+    >"Rush Times?"
     輸入重試次數
 ## Dev info
 ### Require
