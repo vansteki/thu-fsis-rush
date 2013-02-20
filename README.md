@@ -15,7 +15,7 @@ thu-fsis-rush
     輸入密碼 (輸入過程不會被看到)
     "Rush Times?"
     輸入重試次數
-## Dev
+## Dev info
 ### Require
     Ruby >= 1.8.7 
     gem install watir-webdriver
