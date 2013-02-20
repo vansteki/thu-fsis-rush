@@ -24,9 +24,17 @@ thu-fsis-rush
     Ruby >= 1.8.7 
     gem install watir-webdriver
     gem istall highline
-### Ruby2exe
+###
+    ruby fsis.rb
+    input:
+    [ID]
+    [PASS]
+    [rush time]
+  
+### Ruby 2 exe
     gem isntall ocra
     ocra fsis.rb
+    if success , then you can see a file named fsis.exe in the same folder
 
 ##Doesn't work?
 *check firewall
