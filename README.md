@@ -5,7 +5,10 @@ thu-fsis-rush
 ## Require
   "For Windows + Firefox only"
   
-  Mozilla Firefox >= 18.0
+  you'll need:
+  
+    Windows7
+    Mozilla Firefox >= 18.0
   
   Test on Windows7, Ruby1.8.7, Firefox19 beta
 ## Usage
