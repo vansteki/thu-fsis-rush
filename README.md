@@ -7,7 +7,7 @@ thu-fsis-rush
   
   For Windows only
   
-  Test on Windows7, Ruby1.8.7, Firefox19
+  Test on Windows7, Ruby1.8.7, Firefox19 beta
 ## Usage
     fsis.exe 
     >"Enter ID"
