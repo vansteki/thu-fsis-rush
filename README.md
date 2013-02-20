@@ -1,6 +1,7 @@
 thu-fsis-rush
 =============
 ## THU 選課大作戰!
+  我只幫你們登陸，接下來就靠各位同志了!
 ## Require
   Mozilla Firefox >= 18.0
   
