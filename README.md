@@ -3,9 +3,9 @@ thu-fsis-rush
 ## THU 選課大作戰!
   我只幫你們登陸，接下來就靠各位同志了!
 ## Require
-  Mozilla Firefox >= 18.0
+  "For Windows + Firefox only"
   
-  For Windows only
+  Mozilla Firefox >= 18.0
   
   Test on Windows7, Ruby1.8.7, Firefox19 beta
 ## Usage
