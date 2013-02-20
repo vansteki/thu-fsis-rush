@@ -1,6 +1,5 @@
 require 'rubygems'
 require 'win32/registry' #require it when use ocra(~=ruby2exe)
-require 'time'
 require "watir-webdriver"
 require 'highline/import'
 
