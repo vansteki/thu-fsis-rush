@@ -10,7 +10,7 @@ thu-fsis-rush
     Windows7
     Mozilla Firefox >= 18.0
   
-  Test on Windows7, Ruby1.8.7, Firefox19 beta
+  Test on Windows7, Firefox19 beta
 ## Usage
     fsis.exe 
     >"Enter ID"
