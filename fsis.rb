@@ -1,4 +1,3 @@
-#test in Win7 success ,fox only
 require 'rubygems'
 require 'win32/registry' #require it when use ocra(~=ruby2exe)
 require 'time'
@@ -10,11 +9,11 @@ def get_id(prompt="Enter ID")
 end
 
 def get_password(prompt="Enter Password")
-   HighLine.new.ask(prompt) {|q| q.echo = false} #ask() wil been disturb by watir's depdent lib, so use HighLine.new.ask instead of ask()
+   HighLine.new.ask(prompt) {|q| q.echo = false}
 end
 
 def get_rush_time(prompt="Rush Times?")
-   HighLine.new.ask(prompt) {|q| q.echo = true} #ask() wil been disturb by watir's depdent lib, so use HighLine.new.ask instead of ask()
+   HighLine.new.ask(prompt) {|q| q.echo = true}
 end
 
 def hasInput()
