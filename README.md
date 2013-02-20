@@ -14,7 +14,7 @@ thu-fsis-rush
 ## Usage
     fsis.exe 
     >"Enter ID"
-    輸入學號
+    輸入帳號
     >"Enter Password"
     輸入密碼 (輸入過程不會被看到)
     >"Rush Times?"
