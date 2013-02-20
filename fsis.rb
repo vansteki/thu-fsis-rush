@@ -19,7 +19,7 @@ end
 
 def hasInput()
   if !ARGV[0] || !ARGV[1] || !ARGV[2] then
-		print("input fsis.thu.edu.tw ID PASSWORD\n")
+		print("input fsis.thu.edu.tw [ID] [PASSWORD] [rush times]\n")
 		exit
 	end
 end
