@@ -23,4 +23,9 @@ thu-fsis-rush
 ### Ruby2exe
     gem isntall ocra
     ocra fsis.rb
-  
+
+##Doesn't work?
+*check firewall
+
+*check firefox version
+
