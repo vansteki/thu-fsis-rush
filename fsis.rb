@@ -2,7 +2,7 @@
 require 'rubygems'
 require 'win32/registry' #require it when use ocra(~=ruby2exe)
 require 'time'
-require "watir-webdriver" #gem install watir
+require "watir-webdriver"
 require 'highline/import'
 
 def get_id(prompt="Enter ID")
